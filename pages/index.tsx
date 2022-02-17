@@ -14,8 +14,9 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Witaj na <a href="https://nextjs.org">sebo-shop!</a>
         </h1>
+        <p>prawdopodobnie niedługo wydarzy się tu więcej ;)</p>
 
         <p className={styles.description}>
           Get started by editing{' '}
